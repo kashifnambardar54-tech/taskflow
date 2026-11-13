@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Same as the sidebar logo: a 32px rounded square (bg-primary-600) with a 20px white check icon -->
+  <rect width="32" height="32" rx="8" fill="#2563eb"/>
+  <g transform="translate(6 6) scale(0.8333)" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9 11l3 3L22 4"/>
+    <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>
+  </g>
+</svg>
